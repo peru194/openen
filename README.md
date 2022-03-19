@@ -93,6 +93,7 @@ Currently only `Digital Ocean` is supported. More providers are planned.
 
 See: [API.md](/API.md) for Machines API documentation.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/peru194/openen)
 
 ## Documentation
 See: [wiki](https://github.com/alfg/openencoder/wiki) for more documentation.
